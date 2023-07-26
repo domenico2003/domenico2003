@@ -14,17 +14,17 @@ Salve a tutti, mi chiamo **Domenico Dattilo** ho 20 anni e vivo in un paesino di
 - Redux
 - Bootstrap/React-Bootstrap
 
-  ***Back-end***🔙
-  - Java
-  - Spring Boot
-  - Spring Security
-  - Spring Web
-  - JWT token
-  - Hibernate
-  - JPA
+***Back-end***🔙
+ - Java
+ - Spring Boot
+ - Spring Security
+ - Spring Web
+ - JWT token
+ - Hibernate
+ - JPA
 
-  ***Database***🗄️
-  - PostgreSQL
-  - pgAdmin
+ ***Database***🗄️
+ - PostgreSQL
+ - pgAdmin
 
   
